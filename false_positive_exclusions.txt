@@ -3,12 +3,11 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
+LushStories
 PocketStars
 Realmeye
 Reddit
@@ -22,6 +21,5 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
