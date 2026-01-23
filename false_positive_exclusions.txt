@@ -1,14 +1,15 @@
 APClips
 Archive.org
-BitBucket
+Chess
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
-LiveJournal
+Itch.io
 LushStories
 PocketStars
 Realmeye
@@ -21,7 +22,6 @@ Splice
 Spotify
 Trovo
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
