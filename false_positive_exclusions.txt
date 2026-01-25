@@ -1,6 +1,6 @@
 APClips
 Archive.org
-Carbonmade
+CGTrader
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -22,5 +22,6 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
