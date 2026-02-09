@@ -1,6 +1,6 @@
 APClips
+Archive of Our Own
 Archive.org
-Audiojungle
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -24,5 +24,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
