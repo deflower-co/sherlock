@@ -2,12 +2,11 @@ APClips
 Archive.org
 Code Snippet Wiki
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -23,5 +22,4 @@ YandexMusic
 mercadolivre
 phpRU
 svidbook
-threads
 xHamster
