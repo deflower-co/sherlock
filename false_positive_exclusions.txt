@@ -1,15 +1,14 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
-Minecraft
+Patched
 PocketStars
 Realmeye
 Reddit
@@ -19,11 +18,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
-Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
