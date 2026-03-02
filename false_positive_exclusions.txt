@@ -6,7 +6,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Minecraft
@@ -16,6 +15,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
