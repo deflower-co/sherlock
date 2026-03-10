@@ -1,8 +1,8 @@
 APClips
 Archive.org
 Codolio
+Cults3D
 DeviantArt
-Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -19,8 +19,10 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate
