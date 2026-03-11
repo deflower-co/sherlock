@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Codolio
-Cults3D
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -10,6 +9,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -19,7 +19,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Strava
@@ -31,3 +30,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
