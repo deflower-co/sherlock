@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 Codolio
 DeviantArt
 GNOME VCS
@@ -22,7 +21,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
