@@ -1,16 +1,17 @@
 APClips
 Archive.org
+Audiojungle
 Codolio
-GNOME VCS
+DeviantArt
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -18,13 +19,14 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
+minds
 phpRU
 svidbook
-xHamster
