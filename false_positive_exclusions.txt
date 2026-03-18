@@ -1,15 +1,12 @@
 APClips
 Archive.org
-Audiojungle
 Codolio
 DeviantArt
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Rarible
@@ -19,7 +16,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
@@ -27,6 +23,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
+opennet
 phpRU
 svidbook
