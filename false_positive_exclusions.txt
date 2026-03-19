@@ -7,6 +7,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -14,6 +16,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
