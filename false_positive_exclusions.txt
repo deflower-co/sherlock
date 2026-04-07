@@ -1,13 +1,13 @@
 7Cups
 APClips
 Archive.org
+Bandcamp
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
+Dribbble
 GeeksforGeeks
 Giphy
-Hashnode
 Hubski
 LessWrong
 LushStories
@@ -19,10 +19,8 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
