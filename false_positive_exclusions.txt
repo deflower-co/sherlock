@@ -11,9 +11,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Lobsters
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -27,6 +25,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
