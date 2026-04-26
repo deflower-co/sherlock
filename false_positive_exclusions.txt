@@ -5,16 +5,16 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-CyberDefenders
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
+OurDJTalk
 Patched
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -25,7 +25,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
