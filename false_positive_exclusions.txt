@@ -1,13 +1,13 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
+ArtStation
 Bandcamp
-BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
+Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -24,8 +24,8 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
